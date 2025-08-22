@@ -1,7 +1,7 @@
 # LINK
 ### 공부일지 <a href="https://github.com/jangsh4752/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st TEAM PROJECT <a href="https://github.com/codingSsakAi/1stProject"><img src="https://img.shields.io/badge/PROJ[CodingSSak]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/comlec/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 2nd TEAM PROJECT <a href="https://github.com/codingSsakAi/2ndProject"><img src="https://img.shields.io/badge//PROJ[CodingSSak]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 ### JAVA TEAM PROJECT <a href="https://github.com/gohwin/OlaProject"><img src="https://img.shields.io/badge/PROJ[OlaProject]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
